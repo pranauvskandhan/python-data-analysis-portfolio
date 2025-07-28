@@ -9,6 +9,6 @@ A structured portfolio of Jupyter notebooks to demonstrate Python data analysis 
 
 # Tools Used
 
-- Python 3.x
+- Python 3.13.3
 - Jupyter Notebook
 - NumPy, pandas, matplotlib, seaborn
