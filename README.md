@@ -4,7 +4,9 @@ A structured portfolio of Jupyter notebooks to demonstrate Python data analysis 
 
 # Structure
 
-- `Week1/`: NumPy basics — array creation, slicing, reshaping, masking, and basic statistics
+`Week1/`: NumPy basics — array creation, slicing, reshaping, masking, and basic statistics
+
+`Week2/`: pandas fundamentals — Series, DataFrames, indexing, and data filtering
 
 
 # Tools Used
